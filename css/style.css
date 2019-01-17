@@ -1,0 +1,26 @@
+h1 {
+    font-family: Arial;
+    font-size: 20px;
+    color: black;
+}
+
+
+
+#response {
+    color: purple;
+    min-height: 400px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+}
+
+
+#author {
+    font-family: 'Leckerli One', cursive;
+    font-size: 20px;
+    color: orange;
+}
+
+
+img {
+    border-radius: 50px;
+}
